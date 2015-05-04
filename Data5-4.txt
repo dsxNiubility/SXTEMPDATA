@@ -1,4 +1,6 @@
 
+JSON 序列化工具 http://www.w3cschool.cc/jsontool
+
 请求
 
 http://e.meituan.com/bizapi/dealfeedbacks?offset=0&limit=7&inputmethod=0&utm_content=82B2974332E0DA52B2D9C5E21F1DA4BB0AEA5583453777452D4405712ED0FCA4&bizlogintoken=DclTK7co0cNQ0CnfDAloOU8Y2MQT3GN6&utm_term=4.0&utm_source=AppStore&utm_medium=iphone&appkey=app&reqtime=1430734907&sign=bb7aac1f01372bc042fe6ee8c4c7951578327dd8
